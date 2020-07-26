@@ -1,0 +1,59 @@
+2020-07-26 14:09:22.175 -04:00 [INF] Starting up
+2020-07-26 14:09:23.612 -04:00 [INF] User profile is available. Using 'C:\Users\animu\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-07-26 14:09:23.863 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-07-26 14:09:23.863 -04:00 [INF] Hosting environment: Development
+2020-07-26 14:09:23.863 -04:00 [INF] Content root path: C:\Users\animu\source\repos\SerilogTesting\SerilogTesting
+2020-07-26 14:09:23.912 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/  
+2020-07-26 14:09:23.936 -04:00 [INF] Executing endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:23.983 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SerilogTesting.Controllers.HomeController (SerilogTesting).
+2020-07-26 14:09:23.986 -04:00 [INF] Index has started up for Darin
+2020-07-26 14:09:24.006 -04:00 [INF] Executing ViewResult, running view Index.
+2020-07-26 14:09:24.128 -04:00 [INF] Executed ViewResult - view Index executed in 126.9265ms.
+2020-07-26 14:09:24.131 -04:00 [INF] Executed action SerilogTesting.Controllers.HomeController.Index (SerilogTesting) in 147.8275ms
+2020-07-26 14:09:24.132 -04:00 [INF] Executed endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:24.136 -04:00 [INF] Request finished in 226.9306ms 200 text/html; charset=utf-8
+2020-07-26 14:09:24.198 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-07-26 14:09:24.199 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/lib/jquery/dist/jquery.min.js  
+2020-07-26 14:09:24.203 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-07-26 14:09:24.204 -04:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2020-07-26 14:09:24.204 -04:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2020-07-26 14:09:24.204 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/css/site.css  
+2020-07-26 14:09:24.204 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-07-26 14:09:24.205 -04:00 [INF] The file /js/site.js was not modified
+2020-07-26 14:09:24.205 -04:00 [INF] Request finished in 5.4376ms 304 application/javascript
+2020-07-26 14:09:24.205 -04:00 [INF] Request finished in 0.7749ms 304 application/javascript
+2020-07-26 14:09:24.205 -04:00 [INF] Request finished in 2.0037ms 304 application/javascript
+2020-07-26 14:09:24.233 -04:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\animu\source\repos\SerilogTesting\SerilogTesting\wwwroot\css\site.css'
+2020-07-26 14:09:24.233 -04:00 [INF] Request finished in 29.393ms 200 text/css
+2020-07-26 14:09:24.239 -04:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\animu\source\repos\SerilogTesting\SerilogTesting\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-07-26 14:09:24.240 -04:00 [INF] Request finished in 41.7122ms 200 text/css
+2020-07-26 14:09:24.336 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/favicon.ico  
+2020-07-26 14:09:24.341 -04:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\animu\source\repos\SerilogTesting\SerilogTesting\wwwroot\favicon.ico'
+2020-07-26 14:09:24.344 -04:00 [INF] Request finished in 7.7268ms 200 image/x-icon
+2020-07-26 14:09:27.467 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/  
+2020-07-26 14:09:27.468 -04:00 [INF] Executing endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:27.469 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SerilogTesting.Controllers.HomeController (SerilogTesting).
+2020-07-26 14:09:27.471 -04:00 [INF] Index has started up for Darin
+2020-07-26 14:09:27.471 -04:00 [INF] Executing ViewResult, running view Index.
+2020-07-26 14:09:27.476 -04:00 [INF] Executed ViewResult - view Index executed in 5.2687ms.
+2020-07-26 14:09:27.477 -04:00 [INF] Executed action SerilogTesting.Controllers.HomeController.Index (SerilogTesting) in 6.8278ms
+2020-07-26 14:09:27.477 -04:00 [INF] Executed endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:27.477 -04:00 [INF] Request finished in 10.4344ms 200 text/html; charset=utf-8
+2020-07-26 14:09:30.320 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/Home/Privacy  
+2020-07-26 14:09:30.324 -04:00 [INF] Executing endpoint 'SerilogTesting.Controllers.HomeController.Privacy (SerilogTesting)'
+2020-07-26 14:09:30.326 -04:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller SerilogTesting.Controllers.HomeController (SerilogTesting).
+2020-07-26 14:09:30.327 -04:00 [INF] Reached Privacy Section
+2020-07-26 14:09:30.328 -04:00 [INF] Executing ViewResult, running view Privacy.
+2020-07-26 14:09:30.332 -04:00 [INF] Executed ViewResult - view Privacy executed in 5.3549ms.
+2020-07-26 14:09:30.333 -04:00 [INF] Executed action SerilogTesting.Controllers.HomeController.Privacy (SerilogTesting) in 6.2325ms
+2020-07-26 14:09:30.333 -04:00 [INF] Executed endpoint 'SerilogTesting.Controllers.HomeController.Privacy (SerilogTesting)'
+2020-07-26 14:09:30.333 -04:00 [INF] Request finished in 12.9008ms 200 text/html; charset=utf-8
+2020-07-26 14:09:44.756 -04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44317/  
+2020-07-26 14:09:44.757 -04:00 [INF] Executing endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:44.758 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SerilogTesting.Controllers.HomeController (SerilogTesting).
+2020-07-26 14:09:44.758 -04:00 [INF] Index has started up for Darin
+2020-07-26 14:09:44.759 -04:00 [INF] Executing ViewResult, running view Index.
+2020-07-26 14:09:44.761 -04:00 [INF] Executed ViewResult - view Index executed in 2.4505ms.
+2020-07-26 14:09:44.761 -04:00 [INF] Executed action SerilogTesting.Controllers.HomeController.Index (SerilogTesting) in 3.3701ms
+2020-07-26 14:09:44.762 -04:00 [INF] Executed endpoint 'SerilogTesting.Controllers.HomeController.Index (SerilogTesting)'
+2020-07-26 14:09:44.763 -04:00 [INF] Request finished in 6.7379ms 200 text/html; charset=utf-8
